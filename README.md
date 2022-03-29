@@ -1,3 +1,3 @@
 # Testing-GH-Token-Scanner
 
-My Postman test API Key - PMAK-62428e3bb63cef002a9d4c0e-e8302a929c22f1fa6e0ba0cd577960d21b
+My Postman test API Key - PMAK-62428eaadcbcdc141c6e6996-c6cbcae8e6b8e4e1308db5fa97a85bef42
